@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\GestoreEvento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37CB89C4-2D90-4170-9417-BEF9419E895D}|GestoreEvento\\GestoreEvento.csproj|c:\\users\\utente\\desktop\\gestoreevento\\gestoreevento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CB89C4-2D90-4170-9417-BEF9419E895D}|GestoreEvento\\GestoreEvento.csproj|solutionrelative:gestoreevento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CB89C4-2D90-4170-9417-BEF9419E895D}|GestoreEvento\\GestoreEvento.csproj|c:\\users\\utente\\desktop\\gestoreevento\\gestoreevento\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CB89C4-2D90-4170-9417-BEF9419E895D}|GestoreEvento\\GestoreEvento.csproj|solutionrelative:gestoreevento\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CB89C4-2D90-4170-9417-BEF9419E895D}|GestoreEvento\\GestoreEvento.csproj|c:\\users\\utente\\desktop\\gestoreevento\\gestoreevento\\models\\risorse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CB89C4-2D90-4170-9417-BEF9419E895D}|GestoreEvento\\GestoreEvento.csproj|solutionrelative:gestoreevento\\models\\risorse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CB89C4-2D90-4170-9417-BEF9419E895D}|GestoreEvento\\GestoreEvento.csproj|c:\\users\\utente\\desktop\\gestoreevento\\gestoreevento\\models\\partecipante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CB89C4-2D90-4170-9417-BEF9419E895D}|GestoreEvento\\GestoreEvento.csproj|solutionrelative:gestoreevento\\models\\partecipante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CB89C4-2D90-4170-9417-BEF9419E895D}|GestoreEvento\\GestoreEvento.csproj|c:\\users\\utente\\desktop\\gestoreevento\\gestoreevento\\models\\gestoreeventocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CB89C4-2D90-4170-9417-BEF9419E895D}|GestoreEvento\\GestoreEvento.csproj|solutionrelative:gestoreevento\\models\\gestoreeventocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\GestoreEvento\\GestoreEvento\\Models\\Evento.cs",
+              "RelativeDocumentMoniker": "GestoreEvento\\Models\\Evento.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\GestoreEvento\\GestoreEvento\\Models\\Evento.cs",
+              "RelativeToolTip": "GestoreEvento\\Models\\Evento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:27:38.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Risorse.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\GestoreEvento\\GestoreEvento\\Models\\Risorse.cs",
+              "RelativeDocumentMoniker": "GestoreEvento\\Models\\Risorse.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\GestoreEvento\\GestoreEvento\\Models\\Risorse.cs",
+              "RelativeToolTip": "GestoreEvento\\Models\\Risorse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:27:31.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Partecipante.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\GestoreEvento\\GestoreEvento\\Models\\Partecipante.cs",
+              "RelativeDocumentMoniker": "GestoreEvento\\Models\\Partecipante.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\GestoreEvento\\GestoreEvento\\Models\\Partecipante.cs",
+              "RelativeToolTip": "GestoreEvento\\Models\\Partecipante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:27:28.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GestoreEventoContext.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\GestoreEvento\\GestoreEvento\\Models\\GestoreEventoContext.cs",
+              "RelativeDocumentMoniker": "GestoreEvento\\Models\\GestoreEventoContext.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\GestoreEvento\\GestoreEvento\\Models\\GestoreEventoContext.cs",
+              "RelativeToolTip": "GestoreEvento\\Models\\GestoreEventoContext.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAHIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:27:00.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\GestoreEvento\\GestoreEvento\\Program.cs",
+              "RelativeDocumentMoniker": "GestoreEvento\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\GestoreEvento\\GestoreEvento\\Program.cs",
+              "RelativeToolTip": "GestoreEvento\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwFoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:21:48.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

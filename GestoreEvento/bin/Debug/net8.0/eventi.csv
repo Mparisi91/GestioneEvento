@@ -1,0 +1,7 @@
+EventoId,NomeEvento,DescrizioneEvento,DataEvento,LuogoEvento,CapacitaMassima
+1,Nuovo Nome dell'Evento,Nuova Descrizione dell'Evento,22/03/2024 17:24:23,Nuovo Luogo dell'Evento,100
+2,Concerto Rock,Un fantastico concerto di musica rock,12/02/2023 00:00:00,Teatro della città,500
+3,Pool party Titone,Festa Esclusiva,22/03/2024 17:34:39,Castelverde,100
+4,Festa al mare ,Festa Privata,22/03/2024 17:35:09,Fregene,100
+5,Corso di Cucina,,08/10/2024 00:00:00,Scuola di Cucina Gourmet,20
+6,Conferenza Tecnologica,Una conferenza sulle ultime innovazioni tecnologiche,05/02/2024 00:00:00,Centro Congressi,200
